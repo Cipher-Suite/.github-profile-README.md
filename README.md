@@ -14,4 +14,4 @@ Cloud-native MT5 trading infrastructure for prop firms, brokers, and signal prov
 
 ## Quick Start
 
-[Get started →](https://cipherbridge.cloud/docs)
+[Get started →](https://cipherbridge.cloud/docs.html)
