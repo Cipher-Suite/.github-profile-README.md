@@ -22,11 +22,11 @@ MT5 Terminal ⇄ Bridge (DLL + EA) ⇄ Gateway ⇄ APIs / Bots / Web
 
 Component| Repository| Description| Stack
 |:-------|-----------|------------|------:|
-|MT5 Bridge| ""cipherbridge-mt5-bridge"" (https://github.com/cipher-suite/CMB)| Connects MT5 to the gateway (DLL + EA)| C++ / MQL5|
-Gateway| ""cipherbridge-gateway"" (https://github.com/cipher-suite/CMG)| WebSocket routing & trade orchestration| Rust / axum
-Node Agent| ""cipherbridge-node-agent"" (https://github.com/cipherbridge/CNA)| Runs MT5 instances on VPS nodes| Rust
-Signal Engine| ""cipherbridge-signal-engine"" (https://github.com/cipher-suite/cipher-trade)| Algorithmic trading logic| Rust
-Signal Copier| ""cipherbridge-signal-copier"" (https://github.com/cipher-suite/fx-signal-copier)| Telegram-based trade interface| Python / Rust
+|MT5 Bridge| [cipherbridge-mt5-bridge](https://github.com/cipher-suite/CMB)| Connects MT5 to the gateway (DLL + EA)| C++ / MQL5|
+Gateway| [cipherbridge-gateway](https://github.com/cipher-suite/CMG)| WebSocket routing & trade orchestration| Rust / axum
+Node Agent| [cipherbridge-node-agent](https://github.com/cipherbridge/CNA)| Runs MT5 instances on VPS nodes| Rust
+Signal Engine| [cipherbridge-signal-engine](https://github.com/cipher-suite/cipher-trade)| Algorithmic trading logic| Rust
+Signal Copier| [cipherbridge-signal-copier](https://github.com/cipher-suite/fx-signal-copier)| Telegram-based trade interface| Python / Rust
 
 ---
 
